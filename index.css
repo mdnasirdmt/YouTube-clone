@@ -1,0 +1,22 @@
+
+
+#show_video{
+    display: grid;
+    grid-template-columns: repeat(4, 20%);
+    grid-gap: 5%;
+}
+
+body{
+    margin: 50px;
+   
+} 
+
+
+#show_video{
+    /* mask-position: 5%; */
+    /* position:fixed; */
+    position: static;
+    /* border: 1px solid black; */
+    margin-left: 200px;
+    /* overflow: scroll; */
+}
